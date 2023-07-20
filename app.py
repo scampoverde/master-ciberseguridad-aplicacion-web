@@ -1,7 +1,7 @@
 from flask import Flask, Response
 import requests
 import json
-import logging
+import loggin
 
 app = Flask(__name__)
 
